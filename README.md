@@ -1,2 +1,10 @@
 # Library-Management-Systm
-The Banking System is a simple Python app that simulates a bank account.Features Deposit cash,Withdraw Cash
+The Library Management System is a Python console app that manages books in a library.
+
+Features:
+
+ Add new books
+
+ View available books
+
+ Borrow & return books
